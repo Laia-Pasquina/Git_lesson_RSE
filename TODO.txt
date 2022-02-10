@@ -1,0 +1,8 @@
+List of things we've done so far:
+
+    1. Creating your first repository (DONE)
+    2. Add a file to the repo (done)
+    3. Check out the Git history (done)
+    4. Hands-On Exercise
+    5. Pulling from a remote source
+    6. Minor note about the differences between Git, GitHub and GitHub Desktop
