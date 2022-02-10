@@ -19,6 +19,8 @@ My interests are the following:
 
 Example of some of the imaging analysis that I am currently developing:
 
+![] (https://github.com/Laia-Pasquina/Git_lesson_RSE/blob/7b8bccd0e449eeae105bbf14eccb2cc84fc5f5b4/group%20of%20pores.gif)
+
 
 
 
